@@ -1,0 +1,44 @@
+.name{
+    display: block;
+    margin-bottom: 3px;
+}
+
+.email{
+    display: block;
+    margin-bottom: 3px;
+}
+
+.para-appreciate{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+        /* google search box */
+.goggle-search-box{
+    display: block;
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: none;
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-left: 180px;
+    line-height: 5px;
+}
+
+.goggle-image{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: 400px;
+    object-fit: contain;
+    object-position: center;
+    margin-bottom: 0px;
+    
+}

@@ -1,0 +1,47 @@
+
+        .grid-box{
+            display: grid;
+            grid-template-columns:120px 120px 120px ;
+            column-gap: 10px;
+        }
+        .container-box{
+        width: 120px;
+        display: grid;
+        grid-template-rows: 120px;
+        /* row-gap: 0px; */
+        box-shadow: 1px 1px 2px gray;
+        } 
+        
+        .profile-image{
+            height: 120px;
+            width: 120px;
+            object-fit: cover;
+        }
+
+        .profile-name{
+            margin-top: 3px;
+            font-size: 14px;
+            font-weight: bold;
+            margin-left:5px;
+            margin-bottom: 4px;
+        }
+
+        .friend-count{
+            margin-top: 0px;
+            font-size: 13px;
+            color: gray;
+            margin-bottom: 5px;
+            margin-left:5px;
+        }
+
+        .add-friend-button{
+            width: 90px;
+            background-color: rgb(28, 98, 228);
+            color: white;
+            padding: 5px 3px 5px 3px;
+            margin-left:5px;
+            border: none;
+            border-radius: 3px;
+            margin-bottom: 5px;
+            cursor: pointer;
+        }

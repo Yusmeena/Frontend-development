@@ -1,0 +1,36 @@
+.video-title{
+    font-size: 20px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 0px;
+}
+
+.video-view{
+    margin-top: 0px;
+    font-size: 14px;
+    line-height: 20px;
+    color: gray;
+}
+
+.author{
+    font-size: 14px;
+    color: gray;
+}
+
+.video-description{
+    font-size: 14px;
+    color: gray;
+    width: 260px;
+    line-height: 20px;
+}
+.favor{
+    background-color: red;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.video-shop:hover{
+    text-decoration: underline;
+}

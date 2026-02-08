@@ -1,0 +1,30 @@
+.laptop{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2px;
+    margin-bottom: 1px;  
+}
+
+.laptop-advert{
+    color: rgb(204, 118, 5);
+}
+
+.laptop-name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.laptop-value{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.buy-button{
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 5px 10px;
+    background-color: rgb(66, 126, 196);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    margin-left: 250px;
+}

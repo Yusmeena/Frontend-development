@@ -1,0 +1,64 @@
+.search{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+
+/* google search box */
+.goggle-search-box{
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* padding-right: 90px; */
+    border: none;
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 20px;
+}
+
+
+        /* LinkedIn signup box */
+
+.linkedIn-signup-email{
+    color: gray;
+    margin-bottom: 3px;
+}
+
+.linkedIn-signup{
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: 1px;
+    border-style: solid;
+    box-shadow: 0px 0px 2px gray;
+    border-radius: 5px;
+}
+
+.agreement{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: gray;
+    font-weight: light;
+    
+}
+
+.agreement-button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: rgb(15, 110, 189);
+    color: white;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    margin-left: 15px;
+}

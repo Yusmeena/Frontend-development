@@ -1,0 +1,30 @@
+/* money */
+.money{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+/* price */
+.price{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.currency{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.percentage{
+    color: green;
+}
+
+.after-hours{
+    color: gray;
+}
+
+.percent-deduct{
+    color: rgb(187, 9, 9);
+}

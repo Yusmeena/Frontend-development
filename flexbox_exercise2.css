@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+}
+
+/* Exercise 1 */
+.container{
+    width: 300px;
+/*        border: 1px solid rgb(194, 188, 188);
+    border-radius: 5px 10px; */
+    margin-left: 5px;
+    margin-bottom: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: center; */
+
+    /* margin-bottom: 80px; */
+
+}
+
+.name{
+    margin-top: 4px;
+    margin-right: 5px;
+    padding: 5px 10px;
+    border-radius: 5px 10px;
+}
+
+.number{
+    margin-top: 4px;
+    margin-right: 5px;
+    background-color: rgb(30, 100, 230);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+/* Exercise 2 */
+.container2{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(139, 8, 139, 0.9);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.home{
+    margin-left: 10px;
+    color: white;
+}
+
+.search-space{
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 10px;
+    flex: 1;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+/*   .search-space::placeholder{
+    
+} */
+
+.download-button{
+    border: 1px solid white;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+    border-radius: 2px;
+    background-color: transparent;
+    color: white;
+}

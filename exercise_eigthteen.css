@@ -1,0 +1,76 @@
+.container{
+    display: inline-block;
+    width: 150px;
+    border: none;
+    margin-bottom: 0px;
+    box-shadow: 0px 0px 4px gray;
+    margin-top: 5px;
+    margin-left: 5px;
+ }
+
+.cat-image{
+height: 150px;
+width: 150px;
+object-fit: cover;
+cursor: pointer;    
+}
+
+
+.profile-name{
+margin-top: 0px;
+font-weight: bold;
+font-size: 14px;
+margin-bottom: 0px;
+margin-left: 5px;  
+}
+
+.sub-image-friend-container{
+margin-top: 3px;
+margin-bottom: 5px;
+margin-left: 5px;  
+}
+
+
+.sub-image{
+height: 20px;
+width: 20px;
+object-fit: cover;
+border-radius: 10px;
+cursor: pointer;    
+}
+
+
+.friend-counter{
+display: inline-block;
+margin-top: 0px;
+margin-bottom: 0px;
+font-size: 12px;
+color: gray;
+vertical-align: top;
+cursor: pointer;    
+}
+
+.add-friend-button{
+margin-top: 3px;
+display: block;
+background-color: rgb(64, 136, 218);  
+color: white;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+border: none;
+border-radius: 3px;  
+margin-left: 5px;  
+margin-bottom: 5px;
+cursor: pointer;  
+transition: background-color 0.15s;      
+}
+
+.add-friend-button:hover{
+background-color: rgb(30, 102, 184); 
+}
+
+.add-friend-button:active{
+background-color: rgb(12, 69, 134); 
+}

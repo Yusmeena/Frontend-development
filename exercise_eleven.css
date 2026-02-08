@@ -1,0 +1,52 @@
+/* tweet chat */
+/*         .container{
+            width: 310px;
+            border: 1px solid black;
+            background-color: white;
+            color: black;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            margin: 0px;
+            vertical-align: middle;
+
+        } */
+
+        .profile{
+            width: 40px;
+            height: 40px;
+            object-fit: cover;
+            border-radius: 50px;
+            margin: 0px;
+            vertical-align: middle;
+        }
+
+        .profile:hover{
+            cursor: pointer;
+        }
+
+        .tweet-textbox{
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            vertical-align: middle;
+            border: none;
+            margin: 0px;
+        }
+
+        .tweet-textbox:active{
+            border: none;
+        }
+
+        .tweet-button{
+        background-color: rgb(41, 175, 221);
+        height:25px;
+        width: 60px;
+        color: white;
+        border-radius: 15px;
+        border: solid 1px;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: bold;
+        vertical-align: middle;
+        margin-left: 0px;
+    }

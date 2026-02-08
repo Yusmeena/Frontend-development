@@ -1,0 +1,33 @@
+/* code */
+.code{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+/* name */
+.camp-name{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+
+.link{
+    font-size: 12px;
+    color: gray;
+}
+
+.code-post{
+    width: 380px;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.developer-experince{
+    font-size: 12px;
+}
+
+.dev-link{
+    color: rgb(59, 180, 228);
+    font-size: 12px;
+}

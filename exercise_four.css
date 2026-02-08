@@ -1,0 +1,105 @@
+/* Uber */
+.request-button{
+    background-color: rgb(15, 15, 15);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+
+/* Amazon */
+.add-cart-button{
+    background-color: rgb(255, 208, 0);
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: none;
+    border-radius: 15px;
+    margin-right: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+/* Github */
+.sign-up-button{
+    background-color: rgb(5, 92, 5);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 8px;
+    border-radius: 5px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+/* Bootsrap */
+.get-button{
+    background-color: purple;
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+/* Bootstrap */
+.download-button{
+    background-color: white;
+    color: black;
+    border: solid 1px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+/* LinkedIn */
+.apply-button{
+    background-color: rgb(36, 67, 206);
+    color: white;
+    border: solid 1px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 8px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+
+.save-button{
+    background-color: white;
+    color: rgb(36, 67, 206);
+    border: solid 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 8px;
+    border-radius: 16px;
+    cursor: pointer;
+}

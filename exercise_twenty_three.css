@@ -1,0 +1,59 @@
+/* By Ojo Yusuf Abdulazeez
+        6/5/2024 
+        */
+        .container1{
+            /*  background-color: gray; */
+             height: 350px;
+             width: 250px;
+             position: relative;
+         }
+         .clothe{
+             padding-top: 5px;
+             padding-left: 5px;
+             padding-bottom: 5px;
+             width: 200px;
+     }
+ 
+     .price-dicount-tag{
+         background-color: black;
+         color: white;
+         padding: 5px;
+         font-size: 12px;
+         position: absolute;
+         top: 10px;
+         right: 45px;
+     }
+ 
+ 
+     .container2{
+            /*  background-color: gray; */
+             height: 350px;
+             width: 250px;
+             position: relative;
+         }
+         .clothe{
+             padding-top: 5px;
+             padding-left: 5px;
+             padding-bottom: 5px;
+             width: 200px;
+     }
+ 
+     .price-dicount-tag{
+         background-color: black;
+         color: white;
+         padding: 5px;
+         font-size: 12px;
+         position: absolute;
+         top: 10px;
+         right: 45px;
+     }
+ 
+     .add-item-button{
+         display: inline-block;
+         position: absolute;
+         bottom: 75px;
+         right: 100px;
+         background-color: white;
+         /* border: 1px solid black; */
+         padding: 3px 10px;
+     }
